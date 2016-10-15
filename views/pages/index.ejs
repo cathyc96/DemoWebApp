@@ -1,23 +1,32 @@
-<!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-  <link rel="stylesheet" type="text/css" href="stylesheets/main.css"/>
-  <script src="/js/main.js"></script>
+  <% include ../partials/header %>
 </head>
+<body class="container">
 
-<body>
+  <header>
+    <% include ../partials/nav %>
+  </header>
 
-  <h1>Hey internet peeps!</h1>
+  <main>
+    <div class="jumbotron">
+      <h1>Cathy Cowell</h1>
+      <p>Interdisciplanary Studies | Tufts 2019</p>
+    </div>
+    <div class="content">
+      <p>
+        Hi, I'm a student at <strong>Tufts University</strong>.
+      </p>
+      <p>
+        I am studying blah blah blah, my intersts include blah blah
+      </p>
 
-  <p id="demo">
-    This is me testing out a lil html file
-  </p>
+    </div>
+  </main>
 
-  <button type="button" onclick="myFunction()">
-    Try it
-  </button>
+  <footer>
+    <% include ../partials/footer %>
+  </footer>
 
 </body>
-
 </html>
