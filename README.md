@@ -1,21 +1,16 @@
 # DemoWebApp
 
-Check it out at: https://ancient-forest-87393.herokuapp.com/
 
-Before starting:
-- [ ] Create Heroku account (primary language = node) - https://signup.heroku.com/
-  - [ ] download and install command line tools - https://toolbelt.heroku.com/
-- [ ] Create Github account - https://github.com/join
-  - [ ] download and install command line tools - https://help.github.com/articles/set-up-git/#setting-up-git
-- [ ] download and install Node.js - https://nodejs.org/en/download/
-- [ ] download and install a text editor (I recommend submlime text- https://www.sublimetext.com/3)
+A personal website created in Hubspot's annual Women in CS workshop for college
+students interested in CS. This project was forked from a project
+by Zoe Sobin, which can be found at https://github.com/zsobin/DemoWebApp.git.
 
 To set up and run:
 
 1. Make a copy of my existing project on github
-  - Fork the project at https://github.com/zsobin/DemoWebApp.git
+  - Fork the project at https://github.com/cathyc96/DemoWebApp.git
 
-2. Bring your new copy onto your computer from github 
+2. Bring your new copy onto your computer from github
   - `cd ~/Desktop`
   - `git clone https://github.com/YourUserName/DemoWebApp.git`
   - `cd DemoWebApp`
